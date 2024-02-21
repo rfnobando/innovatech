@@ -1,0 +1,41 @@
+.custom-mw-500px {
+    max-width: 500px;
+}
+
+.custom-mh-400px {
+    max-height: 400px;
+}
+
+body {
+    background-color: #DDDDDD;
+}
+
+/* Estilos para los formularios de autenticación */
+.auth-form {
+    max-width: 400px;
+}
+
+/* Estilos para los botones de paginación */
+.custom-page-item {
+    margin: 0 1vw; /* Espaciado entre botones */
+}
+
+.custom-page-link {
+    color: black; /* Color del texto del botón */
+    font-size: 18px;
+    text-decoration: none; /* Elimina el subrayado predeterminado en el enlace */
+    transition: color 0.1s ease; /* Efecto de transición al pasar el mouse */
+}
+
+/* Contraste de los textos introductorios */
+.introduction-text {
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.9);
+}
+
+.admin-body {
+    background-size: cover;
+}
+
+.font-italic {
+    font-style: italic;
+}
